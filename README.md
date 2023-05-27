@@ -4,8 +4,8 @@ Getting the latitude and longitude information about the various places from the
 Geopandas is capable of saving dataset into csv, html, excel, etc. 
 
 Requirement-
-Geopandas
-Geopy
-pandas
-folium
+Geopandas,
+Geopy,
+pandas,
+folium.
 
